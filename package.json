@@ -1,0 +1,16 @@
+{
+"name": "kerry899pantip",
+"theme": "kerry899 pantip",
+"version": "8.9.3",
+"description": "kerry899 pantip สมัครสมาชิกเว็บไซต์บาคาร่าเว็บตรง สมาชิกเยอะ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"kerry899 pantip",
+"kerry899 pantip เครดิตฟรี",
+"kerry899 pantip ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/kerry899pantip",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
